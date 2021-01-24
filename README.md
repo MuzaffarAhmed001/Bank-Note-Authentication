@@ -1,1 +1,1 @@
-# Dockers
+Data were extracted from images that were taken from genuine and forged banknote-like specimens.Wavelet Transform tool were used to extract features from images.In this project, class of Bank Note is predicted. Class "0" means that note is not authentic and Class "1" means that note is authentic. Input variables are Variance, Skewness, Curtosis and Entropy. Project is deployed using Heroku, Streamlit library , Flasgger and Docker.
